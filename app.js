@@ -45,5 +45,5 @@ document.getElementById('inputForm').addEventListener('submit', function (e) {
  let btn = document.getElementById("btn");
 
 btn.addEventListener("click", () => {
-    window.location.href = "viewpayments.html";
+    window.location.href = "/viewpayments.html";
 });
